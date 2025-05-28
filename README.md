@@ -1,4 +1,7 @@
-Simple dalay blocker, just because it is effective i think for time wasting websites. 
-#Todo:
+Simple dalay blocker: that countdown before open.
+
 Core function - works
-Time - Todo
+features todo:
+1. Time spent on particular website
+2. Some simple analysis 
+3. Must be simple
