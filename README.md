@@ -1,4 +1,6 @@
-# Simple dalay blocker: that countdown before open.
+# Simple delay website blocker: that countdown before open websites.
+I think it works more than blocking whole website for certain period of time.
+The delay-time between clicking and consuming content. Give it a try. 
 
 ## Installation
 ```sh
