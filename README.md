@@ -1,10 +1,12 @@
 # Simple dalay blocker: that countdown before open.
 
 ## Installation
+```sh
 Clone repo.
 Go to chrome://extensions/.
 Enable Developer mode.
 Click Load unpacked and select the folder.
+```
 
 Core function - works.
 
