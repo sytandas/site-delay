@@ -15,5 +15,5 @@ Core function - works.
 2. Some simple analysis.
 3. Must be simple.
 
-Please feel free to clone and do whatevery you need to do and consider contributing.
+Please feel free to fork and do whatever you want to do, and consider contributing.
 Thanks.
